@@ -7,3 +7,5 @@ Daisy Buchanan
 Thomas "Tom" Buchanan
 
 Author "Chin"
+
+Another author "Emmanuel"
